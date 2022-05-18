@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Koulen&family=Raleway:wght@300&display=swap');
+
+h1{
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    text-align: center;
+    background: rgb(238,174,202);
+    background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+button{
+    font-family: 'Koulen', cursive;
+    font-family: 'Raleway', sans-serif;
+}
+
+input{
+    font-family: 'Quicksand', sans-serif;
+}
